@@ -1,0 +1,56 @@
+{
+    "id": "42db041f-7aaf-4ab4-961f-2a12096861e7",
+    "title": "Nigeria - Food Prices",
+    "name": "wfp-food-prices-for-nigeria",
+    "notes": "This dataset contains Food Prices data for Nigeria, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, beans, fish, and sugar for 98 countries and some 3000 markets. It is updated weekly but contains to a large extent monthly data. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.",
+    "dataset_source": "FEWSNET via FAO: GIEWS, FPMA, Nigeria, SIMA - Niger, WFP",
+    "organization": "WFP - World Food Programme",
+    "dataset_date": "[2002-01-15T00:00:00 TO 2026-05-15T23:59:59]",
+    "last_modified": "2026-07-12T16:51:35.673367",
+    "data_update_frequency": "Every month",
+    "groups": [
+        "Nigeria"
+    ],
+    "license_title": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "methodology": "Registry",
+    "methodology_other": null,
+    "caveats": "Although the frequency of updates is set to every month, updates may occur more or less frequently",
+    "tags": [
+        "economics",
+        "food security",
+        "indicators",
+        "markets"
+    ],
+    "resources": [
+        {
+            "created": "2018-09-26T15:42:59.665539",
+            "description": "Food prices data",
+            "format": "CSV",
+            "download_url": "https://data.humdata.org/dataset/42db041f-7aaf-4ab4-961f-2a12096861e7/resource/12b51155-0cd3-4806-9924-61ede4077591/download/wfp_food_prices_nga.csv",
+            "id": "12b51155-0cd3-4806-9924-61ede4077591",
+            "last_modified": "2026-07-12T16:51:35.673367",
+            "metadata_modified": "2026-07-12T16:51:39.617246",
+            "microdata": false,
+            "dataset_id": "42db041f-7aaf-4ab4-961f-2a12096861e7",
+            "resource_type": "file.upload",
+            "name": "Nigeria - Food Prices",
+            "mimetype": "",
+            "size": "10.3M"
+        },
+        {
+            "created": "2025-05-07T01:28:25.341473",
+            "description": "Markets data",
+            "format": "CSV",
+            "download_url": "https://data.humdata.org/dataset/42db041f-7aaf-4ab4-961f-2a12096861e7/resource/5329e772-0b74-4f65-8cc0-37a0915cc7e4/download/wfp_markets_nga.csv",
+            "id": "5329e772-0b74-4f65-8cc0-37a0915cc7e4",
+            "last_modified": "2026-02-18T23:41:46.117988",
+            "metadata_modified": "2026-02-18T23:41:49.899936",
+            "microdata": false,
+            "dataset_id": "42db041f-7aaf-4ab4-961f-2a12096861e7",
+            "resource_type": "file.upload",
+            "name": "Nigeria - Markets",
+            "mimetype": "text/csv",
+            "size": "5.2K"
+        }
+    ]
+}
