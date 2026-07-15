@@ -1,0 +1,17 @@
+[
+  {
+    "market": "Lagos",
+    "commodity": "Tomato",
+    "price": 92000
+  },
+  {
+    "market": "Lagos",
+    "commodity": "Rice",
+    "price": 76000
+  },
+  {
+    "market": "Lagos",
+    "commodity": "Maize",
+    "price": 50000
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "market": "Abuja",
+    "commodity": "Tomato",
+    "price": 98000
+  },
+  {
+    "market": "Abuja",
+    "commodity": "Rice",
+    "price": 79000
+  },
+  {
+    "market": "Abuja",
+    "commodity": "Maize",
+    "price": 53000
+  }
+]

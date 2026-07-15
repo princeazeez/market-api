@@ -1,0 +1,17 @@
+[
+  {
+    "market": "Kano",
+    "commodity": "Tomato",
+    "price": 68000
+  },
+  {
+    "market": "Kano",
+    "commodity": "Rice",
+    "price": 61000
+  },
+  {
+    "market": "Kano",
+    "commodity": "Maize",
+    "price": 42000
+  }
+]
